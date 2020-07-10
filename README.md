@@ -1,15 +1,3 @@
 # hello world!
 
-how is it going? test
-
-will this work?
-
-how is it going?
-
-the api is a bit behind?
-
-hello
-
-hi foo is this going to work?
-
-possibly? ahh neat! now it is not behind anymore!!!
+This looks so neat!! This is starting to look more like code that kinda of works!!!
