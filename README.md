@@ -10,4 +10,4 @@ the api is a bit behind?
 
 hello
 
-hi
+hi foo
