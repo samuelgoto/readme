@@ -15,7 +15,7 @@ Would things like ~~strikethrough~~ work? Yep, neat!! What about *italics*!! The
 
 What about those checkboxes lists?
 
-[ ] will this look like a checkbox?
-[x] possibly?
+* [ ] will this look like a checkbox?
+* [x] possibly?
 
-Yep, that seems to look nice!!!
+Yep, that seems to look nice!!! Ha, interesting, it seems like a bit of weird formatting with the checkboxes there!
