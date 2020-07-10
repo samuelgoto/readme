@@ -1,25 +1,6 @@
 # hello world!
 
-This looks so neat!! This is starting to look more like code that kinda of works!!!
-
-Pretty neat heh?!
-
-Will things like lists work?
-
-* lets see
-* yep they kinda of do!!
-* the **highlighting**  is still a bit off
-* but not by much!!
-
-Would things like ~~strikethrough~~ work? Yep, neat!! What about *italics*!! They do!!! So neat!!!
-
-What about those checkboxes lists?
+This is an experimental repository that I'm using to test the github API. A lot of changes here (to this file and the issues) are going to be made programatically!!
 
 * [ ] will this look like a checkbox?
 * [x] possibly?
-
-Yep, that seems to look nice!!! Ha, interesting, it seems like a bit of weird formatting with the checkboxes there!
-
-Ah, interesting, now it works better!!
-
-Ah, this is neat in so many ways!!!
