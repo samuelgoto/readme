@@ -13,4 +13,6 @@ Additionally, comments on blogs are fairly reactive, compared to google docs, in
 
 Both of these put the reader into the backseat and make blogs a lot more like a one-way conversation.
 
+Ah, so cool when absolute URLs work ... they look so much nicer!
+
 
