@@ -5,6 +5,6 @@ This is an experimental repository that I'm using to test the github API. A lot 
 * [ ] will this look like a checkbox?
 * [x] possibly?
 
-I love blogging but I always felt like it was too much of a one-way conversation rather than something as collaborative as a google doc ...
+I love blogging but I always felt like it was too much of a one-way conversation rather than something as collaborative as a google doc ... Commenting widgets are cool, but they far from something that really spurs the right discussions.
 
 This is pretty neat!
