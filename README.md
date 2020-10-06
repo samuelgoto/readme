@@ -2,6 +2,12 @@
 
 ### headers are awesome too!!
 
+Yay! I broke collaboration, but editing seems to work back now!!
+
+```javascript
+let a = document.write("awesome!");
+```
+
 This is an **experimental** repository that I'm using to test the github API. A lot of changes here (to this file and the issues) are going to be made programatically!!
 
 I love blogging but I always felt like it was too much of a one-way conversation rather than something as collaborative as a google doc ... Commenting widgets are cool, but they far from something that really spurs the right discussions.
