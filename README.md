@@ -48,6 +48,7 @@ Tables are fairly easy to use too:
 | ------- | ------- |
 | a cell   | another cell  |
 | another row|  lots of good stuff!  |
+| this is pretty awesome|  ah tables are so much easier now!  |
 
 That's it! What else is missing?
 
@@ -57,4 +58,8 @@ Having the highlight for insertions make them look really cool!!
 
 * inserting a new value to a link reference seems to make the rendering off.
 * the WebRTC transport for the YJS CFDS seems to be off.
+* tables still seem to be rendering poorly
+* inserting by coyping/pasting doesn't seem to be taken as inserting
+* can't edit files other than the README
+* can't edit private files
 
