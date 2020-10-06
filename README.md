@@ -18,6 +18,11 @@ As well as numbered lists!
 1. numbered
 2. lists
 
+Task lists are super useful!
+
+- [ ] does it do task lists?
+- [x] yes it does!
+
 Code blocks for most programming languages work, like javascript:
 
 ```javascript
@@ -56,10 +61,14 @@ Having the highlight for insertions make them look really cool!!
 
 ## Known Issues
 
-* inserting a new value to a link reference seems to make the rendering off.
-* the WebRTC transport for the YJS CFDS seems to be off.
-* tables still seem to be rendering poorly
-* inserting by coyping/pasting doesn't seem to be taken as inserting
-* can't edit files other than the README
-* can't edit private files
+- [ ] inserting a new value to a link reference seems to make the rendering off.
+- [ ] the WebRTC transport for the YJS CFDS seems to be off.
+- [ ] tables still seem to be rendering poorly
+- [ ] inserting by coyping/pasting doesn't seem to be taken as inserting
+- [ ] can't edit files other than the README
+- [ ] can't edit private files
+- [ ] cannot create new files
+- [ ] cannot be embedded in a static site as a widget 
+- [ ] doesn't save the state locally (if you refresh you lose your edits)
+- [x] doesn't do [ ] checkboxes
 
