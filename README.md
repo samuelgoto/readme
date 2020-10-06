@@ -70,5 +70,5 @@ Having the highlight for insertions make them look really cool!!
 - [ ] cannot create new files
 - [ ] cannot be embedded in a static site as a widget 
 - [ ] doesn't save the state locally (if you refresh you lose your edits)
-- [x] doesn't do [ ] checkboxes
+- [ ] doesn't render task lists correctly when not focused
 
