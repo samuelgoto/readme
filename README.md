@@ -1,3 +1,7 @@
+---
+- yaml: "yes!"
+---
+
 # hello world!
 
 ## headers are awesome too!!
@@ -35,6 +39,10 @@ Block quotes are cool too:
 > hello world
 > this looks pretty awesome!
 
+Tables are fairly easy to use too:
 
-
+| foo | bar |
+| ------- | ------- |
+| a cell   | another cell  |
+| another row|  lots of good stuff!  |
 
